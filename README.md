@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I'm Ban !
+
+- I'm a developer junior.
+- I’m currently learning Html, Css and JavaScript.
 
 <!--
 **banRayan/banRayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
