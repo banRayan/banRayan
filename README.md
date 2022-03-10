@@ -1,4 +1,4 @@
-## Hi! my name is Rayan ban.   
+## Hi! my name is Rayan Santos.   
 
 I'm a front-end developer, web technologies enthusiast. Currently fucused on learning React library!
 
