@@ -1,8 +1,8 @@
-## Hi! my name is Rayan Santos.   
+##  My name is Rayan Santos | ban.   
 
 I'm a front-end developer, web technologies enthusiast. Currently fucused on learning React library!
 
-> **current project** [FetchAPI](https://github.com/banRayan/fetchAPI) - This project is focused on displaying github profile repositories in a visual and interactive way.
+> **current project** [Visual Ghub](https://github.com/banRayan/VisualGhub) - This project is focused on displaying github profile repositories in a visual and interactive way.
   
 **Technology:**
 
