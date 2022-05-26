@@ -1,21 +1,31 @@
-## Rayan Santos | ban.   
+<h2 align="center">Rayan Santos | ban</h2> 
 
-Front-end developer, web technologies enthusiast. Currently fucused on learning React library!
-
-> **current project** [**Visual Ghub**](https://github.com/banRayan/VisualGhub) - This project is focused on displaying github profile repositories in a visual and interactive way.
+<p align="center">Front-end developer, web and mobile technologies enthusiast!</p>
+ 
+<div align="center">
   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5A3E90)](https://www.linkedin.com/in/rayansantos/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=5A3E90)](https://www.instagram.com/_banrayan/)
+<a href="mailto:rayan170300@gmail.com"><img src="https://img.shields.io/badge/-Contact-000?style=for-the-badge&logo=Gmail&logoColor=5A3E90"/></a>
+
+</div>
   
-#### Technology Stack
+<h2></h2>
+ 
+<h4>Technology Stack:</h4> 
+ 
+<div> 
+ 
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=5A3E90)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=5A3E90)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=5A3E90)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=444)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp; 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=444)&nbsp;
-
-#### Reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayansantos/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_banrayan/)
-<a href="mailto:rayan170300@gmail.com"><img src="https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</div>
 
 
+<h2></h2>
+
+<h4>Current project</h4> 
+
+[**Visual Ghub**](https://github.com/banRayan/VisualGhub) - This project is focused on displaying github profile repositories in a visual and interactive way. 
 
