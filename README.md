@@ -1,8 +1,8 @@
-<h2 align="center">Rayan Santos | ban</h2> 
+<h2 >Rayan Santos | ban</h2> 
 
-<p align="center">Front-end developer, web and mobile technologies enthusiast!</p>
+<p >Front-end developer, web and mobile technologies enthusiast!</p>
  
-<div align="center">
+<div >
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5A3E90)](https://www.linkedin.com/in/rayansantos/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=5A3E90)](https://www.instagram.com/_banrayan/)
