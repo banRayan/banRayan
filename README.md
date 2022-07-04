@@ -19,13 +19,11 @@
 
 <div align="center"> 
  
-<a href="https://github.com/banRayan" target="_blank" rel="external">
-<img width ="50%" src="https://github-readme-streak-stats.herokuapp.com?user=banRayan&theme=github-dark-blue&background=141414&stroke=D5D5D542&border=141414&fire=E20035&ring=E20035&sideNums=C1C1C1&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C1C1C1)](https://git.io/streak-stats" alt="GitHub Stats"/>
-</a>
+
 </br>
 
 <div align="center">
-  <a href="https://www.javascript.com" target="_blank">
+  <a href="https://www.ecma-international.org" target="_blank">
   <img align="center" alt="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <a href="https://www.typescriptlang.org" target="_blank">
