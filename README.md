@@ -1,7 +1,7 @@
 <div align="center">
 
-<h2>Rayan Santos | ban </h2> 
-<p>Front-end developer, web and mobile technologies enthusiast!</p>
+<h2>Rayan Santos</h2> 
+<p>technological innovation enthusiast</p>
 </div>
 
  
@@ -9,8 +9,8 @@
   
 
 <a href="https://www.linkedin.com/in/rayansantos/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-E20035?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/ban_rayan_/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-E20035?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:rayan170300@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-E20035?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/rayan.santoss/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-E20035?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:rayansantos03@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-E20035?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
  
 </div>
@@ -41,15 +41,6 @@
 
 </div>
 
-<h2></h2>
-
-
-#### Current project
-
-<div align="center">
-
- <a href="https://github.com/banRayan/VisualGhub" target="_blank"><b>Visual Ghub</b></a>
-<p>This project is focused on displaying github profile repositories in a visual and interactive way</p>
 
 </div>
 
